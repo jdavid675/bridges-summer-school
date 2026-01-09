@@ -1,7 +1,9 @@
 # bridges-summer-school
 - Name: Youmei, GitHub Account: youmei-code
 - Name: Johannes, GitHub Account: nessktn
-
+- Name: Bridges, Github Account: test
+- Name: Natalyn, Github Account: Nadatoreily
+- Name: Vearne, GitHub Account: maxi757
 - Name: Herbert, GitHub Account: Herbiweirdo
 - Name: Youmei, GitHub Account: youmei-code,
 - Name: bridges, GitHub account: test
