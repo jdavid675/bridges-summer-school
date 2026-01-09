@@ -1,3 +1,3 @@
 # bridges-summer-school
-- Name: Youmei, GitHub Account: youmei-code
+- Name: Joakim David, GitHub Account: jdavid675
 - Name: Bridges, Github Account: test
